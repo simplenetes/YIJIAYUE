@@ -2,7 +2,7 @@
 ## 功能介绍
   将精简交互融入到商品预览，实现商品的主动推送。类似于短视频交互，用户通过上下滑动界面，实现商品的切换，并且会有智能提示引导用户操作，点击商品大图会跳转到相对应的商品详情页。
 ## 功能效果
-  eg：![功能效果图](https://raw.githubusercontent.com/simplenetes/YIJIAYUE/edit/main/image.png)
+  eg：![功能效果图](https://github.com/simplenetes/YIJIAYUE/main/image.png)
 ## index.wxml
 ````
 <!--swiper实现整屏划动播放视频-->
